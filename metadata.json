@@ -1,0 +1,8 @@
+{
+  "name": "VisionLink Assistive AI",
+  "description": "A sophisticated assistive navigation tool for the visually impaired, leveraging Gemini's vision capabilities to simulate LiDAR-based obstacle detection and scene recognition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
